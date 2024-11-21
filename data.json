@@ -1,1 +1,8 @@
-{"name":"John", "age":30, "car":null}
+let order ={
+  "inputusername" : "@SeamoreJohnson",
+  "crust" : "Hand Tossed",
+  "sauce" : "Garlic",
+  "tops" : {checkAnchovies: true, checkDog: false, checkPuperoni: true},
+  "dineIn" : "yes",
+  "tipSelector" : "15"
+}
